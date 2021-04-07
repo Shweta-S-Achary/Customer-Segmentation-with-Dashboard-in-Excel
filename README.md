@@ -1,5 +1,8 @@
 # Customer-Segmentation-with-Dashboard-in-Excel-
 
+## prediction.ipynb
+Notebook containing data pipeline
+
 ## KPMG_Dashboard.xlsx:
 Contains the final dashboard
 
